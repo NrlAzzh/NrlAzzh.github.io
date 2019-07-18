@@ -257,16 +257,8 @@ p {
   margin-bottom: 10px;
 }
 
-.tm-btn-submit {
-  background-color: #999999;
-  padding: 12px 30px;
-  font-size: 1.2rem;
-}
 
-.tm-btn-submit:focus,
-.tm-btn-submit:hover {
-  background-color: #676767;
-}
+
 
 .tm-copyright-text {
   margin-bottom: 30px;
